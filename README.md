@@ -10,3 +10,6 @@ This project is a refactoring of my old Coursera capstone project.
 * venue data from Foursquare API
 * percentage greenspace?
 * quality of schools?
+### Done
+
+* cleaned rent data
