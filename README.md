@@ -1,4 +1,4 @@
-# New York City vs. San Francisco: Which city is actually better?
+# Battle of the Cities: New York City vs. San Francisco
 
 This project is a refactoring of my old Coursera capstone project.
 
@@ -13,3 +13,4 @@ This project is a refactoring of my old Coursera capstone project.
 ### Done
 
 * cleaned rent data
+* tested geojson files with folium
