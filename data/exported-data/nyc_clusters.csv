@@ -1,0 +1,36 @@
+,Neighborhood,Latitude,Longitude,Cluster Label,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Marble Hill,40.8758,-73.9105,4,Pharmacy,Train Station,Mattress Store,Storage Facility,Supermarket,Sandwich Place,Gym / Fitness Center,Bakery,Coffee Shop,Bank
+1,Inwood,40.8688,-73.922,4,Café,Frozen Yogurt Shop,Wine Bar,Bank,American Restaurant,Park,Deli / Bodega,Diner,Ice Cream Shop,Sandwich Place
+2,Washington Heights,40.8492,-73.9359,4,Mobile Phone Shop,Bakery,Lounge,Supplement Shop,Latin American Restaurant,Tapas Restaurant,Coffee Shop,Caribbean Restaurant,Frozen Yogurt Shop,Spanish Restaurant
+3,Hamilton Heights,40.8259,-73.9492,4,Chinese Restaurant,Pizza Place,Yoga Studio,Sushi Restaurant,Donut Shop,Juice Bar,Coffee Shop,Deli / Bodega,Caribbean Restaurant,Pub
+4,Manhattanville,40.8166,-73.9552,3,Japanese Curry Restaurant,Climbing Gym,Boutique,Food & Drink Shop,French Restaurant,Fountain,Food Truck,Food Court,Flower Shop,Filipino Restaurant
+5,Morningside Heights,40.809,-73.9613,4,Deli / Bodega,Coffee Shop,Food Truck,Café,Burger Joint,Shipping Store,Ethiopian Restaurant,Sandwich Place,New American Restaurant,College Cafeteria
+6,Harlem,40.8137,-73.9439,8,African Restaurant,Jazz Club,French Restaurant,Cosmetics Shop,Bagel Shop,Chinese Restaurant,Seafood Restaurant,Bookstore,Music Venue,Gym / Fitness Center
+7,East Harlem,40.7957,-73.9389,4,Mexican Restaurant,Pizza Place,Bakery,Spanish Restaurant,Grocery Store,Sandwich Place,Rental Car Location,Cocktail Bar,Taco Place,Restaurant
+8,Upper West Side,40.787,-73.9754,2,Italian Restaurant,Cosmetics Shop,Coffee Shop,Vegetarian / Vegan Restaurant,Bar,Mediterranean Restaurant,Thai Restaurant,Pub,Yoga Studio,American Restaurant
+9,Carnegie Hill,40.7838,-73.9558,2,Italian Restaurant,French Restaurant,Spa,Yoga Studio,Kosher Restaurant,Breakfast Spot,Sculpture Garden,Museum,Bookstore,Exhibit
+10,Upper East Side,40.7725,-73.9566,2,Italian Restaurant,Sushi Restaurant,Gym / Fitness Center,Bakery,Bagel Shop,Gourmet Shop,Spanish Restaurant,Bar,American Restaurant,Coffee Shop
+11,Roosevelt Island,40.7616,-73.9503,5,Deli / Bodega,Liquor Store,Indie Theater,Outdoors & Recreation,Bus Line,Greek Restaurant,Sandwich Place,Gym / Fitness Center,Falafel Restaurant,Event Space
+12,Columbus Circle,40.7673,-73.99,4,Theater,Gym / Fitness Center,Coffee Shop,Wine Shop,Wine Bar,Food Truck,Lounge,Gastropub,Market,Mediterranean Restaurant
+13,Midtown,40.76,-73.9789,1,Art Museum,Plaza,Clothing Store,Food Truck,Toy / Game Store,Lounge,Gift Shop,Coffee Shop,Ice Cream Shop,American Restaurant
+14,Clinton,40.7598,-73.9959,1,Theater,Wine Shop,New American Restaurant,American Restaurant,Bar,Lounge,Gym / Fitness Center,Hotel,Hotel Bar,Sporting Goods Shop
+15,Sutton Place,40.7583,-73.9646,2,Gym / Fitness Center,Pizza Place,Indian Restaurant,American Restaurant,French Restaurant,Italian Restaurant,Gym,Bar,Mexican Restaurant,Smoke Shop
+16,Turtle Bay,40.7535,-73.9686,2,Italian Restaurant,Steakhouse,Wine Bar,Sushi Restaurant,French Restaurant,Greek Restaurant,Indian Restaurant,Café,Coffee Shop,Karaoke Bar
+17,Tudor City,40.7474,-73.9723,1,Park,Deli / Bodega,Yoga Studio,Gym / Fitness Center,Spanish Restaurant,Pet Store,Office,Ice Cream Shop,Hawaiian Restaurant,Gym
+18,Garment District,40.752,-73.9882,1,Hotel,Yoga Studio,Mediterranean Restaurant,Lingerie Store,Burger Joint,Lounge,Salad Place,Sandwich Place,Arts & Crafts Store,Pharmacy
+19,Murry Hill,40.7499,-73.9795,1,Hotel,Coffee Shop,Sandwich Place,Japanese Restaurant,American Restaurant,Chinese Restaurant,Italian Restaurant,Restaurant,Bagel Shop,Liquor Store
+20,Chelsea,40.7476,-74.0028,7,Art Gallery,French Restaurant,Tapas Restaurant,Coffee Shop,Italian Restaurant,Park,Chinese Restaurant,Sandwich Place,Cupcake Shop,Bookstore
+21,Flatiron District,40.7425,-73.9881,1,Gym / Fitness Center,American Restaurant,Gym,Italian Restaurant,Yoga Studio,Cocktail Bar,New American Restaurant,Coffee Shop,Café,Sandwich Place
+22,Gramercy,40.7395,-73.9781,9,Yoga Studio,Spa,Big Box Store,Bike Rental / Bike Share,Comedy Club,Ice Cream Shop,Italian Restaurant,Mexican Restaurant,Japanese Restaurant,Wine Bar
+23,Stuyvesant Town,40.7312,-73.9761,0,Fountain,Bar,Cocktail Bar,Gym / Fitness Center,Park,Farmers Market,Baseball Field,Playground,Filipino Restaurant,Flower Shop
+24,West Village,40.7355,-74.0078,4,Wine Bar,Boutique,Cocktail Bar,Gastropub,Park,Coffee Shop,Cosmetics Shop,New American Restaurant,Bakery,Italian Restaurant
+25,Greenwich Village,40.7324,-73.9975,2,Italian Restaurant,American Restaurant,Massage Studio,Wine Bar,Cocktail Bar,Coffee Shop,Gym / Fitness Center,Yoga Studio,Park,Clothing Store
+26,East Village,40.7265,-73.9815,4,Wine Bar,Coffee Shop,Ice Cream Shop,Dessert Shop,Chinese Restaurant,Cocktail Bar,Vegetarian / Vegan Restaurant,Bar,Cheese Shop,Salon / Barbershop
+27,SoHo,40.7249,-74.0038,2,Italian Restaurant,French Restaurant,Coffee Shop,Dessert Shop,Optical Shop,Hotel,Gym,Bakery,Sushi Restaurant,Middle Eastern Restaurant
+28,NoHo,40.7276,-73.9935,2,Italian Restaurant,Spa,Gym,Music Venue,Men's Store,Café,Hotel,Gym / Fitness Center,Yoga Studio,General Entertainment
+29,Little Italy,40.7213,-73.996,2,Italian Restaurant,Mediterranean Restaurant,Coffee Shop,Cocktail Bar,Seafood Restaurant,Ice Cream Shop,Café,Sandwich Place,Thai Restaurant,Hotel
+30,Lower East Side,40.7155,-73.9854,6,Chinese Restaurant,Deli / Bodega,Art Gallery,Flower Shop,Playground,Shoe Store,Cocktail Bar,Coffee Shop,Ramen Restaurant,Pizza Place
+31,Tribeca,40.7187,-74.0075,2,Men's Store,American Restaurant,Italian Restaurant,French Restaurant,Wine Bar,Gym / Fitness Center,Cocktail Bar,Hotel,Sushi Restaurant,Bakery
+32,Battery Park,40.7116,-74.0158,1,Park,Memorial Site,Coffee Shop,Cupcake Shop,Sandwich Place,Food Court,Shopping Mall,Boat or Ferry,Steakhouse,Gastropub
+33,Financial District,40.7062,-74.0093,1,Coffee Shop,Steakhouse,Gym,American Restaurant,Pizza Place,Juice Bar,Food Truck,Mediterranean Restaurant,Event Space,Café
+34,Chinatown,40.7162,-73.9975,6,Chinese Restaurant,Bakery,Spa,Dessert Shop,Optical Shop,Dim Sum Restaurant,Cocktail Bar,Salon / Barbershop,Supermarket,Ice Cream Shop
