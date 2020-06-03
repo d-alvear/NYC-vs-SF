@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is an _unfinished_ refactoring of the project I completed through the Data Science Specialization Capstone Course through Coursera in June 2019. After completeing Dataquest in October 2019, I had a better grasp of Python and machine learning methods, so I decided to revisit this project and refactor it. See the original project [here](https://nbviewer.jupyter.org/gist/d-alvear/6b023d5d5bf0c458c66f4a26379f99a9).
+This is an _unfinished_ refactoring of the project I completed through the Data Science Specialization Capstone Course through Coursera in June 2019. After completeing Dataquest in October 2019, I had a better grasp of Python and machine learning methods, so I decided to revisit this project and refactor it. See the original project [here](https://nbviewer.jupyter.org/gist/d-alvear/6b023d5d5bf0c458c66f4a26379f99a9), and the blog post I wrote when I finished it [here](https://medium.com/@deandraalvear/answering-the-age-old-question-is-new-york-better-than-san-francisco-2bf0a8a8e848).
 
 My goal was to answer, based on neighborhood venue types, whether Manhattan or San Francisco offers more "bang for your buck." I compared rent prices and venues per neighborhood for both cities. I used k-means clustering analysis and leveraged data using the Foursquare API.
 
